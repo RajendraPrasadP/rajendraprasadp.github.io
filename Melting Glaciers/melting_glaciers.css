@@ -1,0 +1,79 @@
+html{
+    height: 100%;
+}
+
+body{
+    background-image: url(/img/glaciers.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-color:rgb(48, 48, 48);
+}
+
+header h1{
+    text-align: center;
+    color: white;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 50px;
+    font-weight: bold;
+}   
+
+main h1{
+    color: white;
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 40px;
+}
+
+main h2{
+    color: white;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 29px;
+}
+
+nav a{
+    color: white;
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+main p{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.scroll{
+    overflow-y: scroll;
+    text-align: left;
+    width: 1500px;
+    height: 465px;
+    margin-left: 12px;
+
+}
+
+main h3{
+    color: white;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 29px;
+}
+
+main h4{
+    color: white;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 29px;
+}
+
+main a{
+    color: white;
+}
+
+nav a:hover{
+    text-decoration: underline;
+}
+
+.more_info{
+    text-align: center;
+    font-size: small;
+}
